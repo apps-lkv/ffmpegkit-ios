@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = "ffmpeg-mobile-min"
-  s.version          = "0.1.2"
+  s.version          = "6.0.0"
   s.summary          = "FFmpegKit iOS frameworks"
   s.homepage         = "https://github.com/maitrungduc1410/ffmpegkit-ios"
-  s.license          = { :type => "GPL" }
+  s.license          = { :type => "MIT" }
   s.author           = { "Duc Trung Mai" => "maitrungduc1410@gmail.com" }
   s.platform         = :ios, "12.1"
 
