@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author           = { "Duc Trung Mai" => "maitrungduc1410@gmail.com" }
   s.platform         = :ios, "12.1"
 
-  s.source           = { :git => "https://github.com/maitrungduc1410/ffmpegkit-ios.git", :branch => "#{s.version}" }
+  s.source           = { :git => "https://github.com/apps-lkv/ffmpegkit-ios.git", :branch => "#{s.version}" }
   
   s.frameworks = [
     "AudioToolbox",
